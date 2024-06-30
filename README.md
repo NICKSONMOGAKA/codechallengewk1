@@ -1,21 +1,23 @@
-# Net Salary Calculator
+@ Net Salary Calculator
 
-## Description
+- Description
 This project is a Net Salary Calculator implemented in JavaScript. It calculates an employee's net salary based on their basic salary and benefits, taking into account PAYE (Tax), NHIF (National Hospital Insurance Fund), and NSSF (National Social Security Fund) deductions according to Kenyan regulations.
 
-## Prerequisites/Getting Started
+- Prerequisites/Getting Started
+
 To run this project, you need:
 - A computer with a modern web browser (e.g., Chrome, Firefox, Safari)
 - Node.js installed on your machine (if you want to run it via command line)
 
-## Installation
+- Installation
 To get this project on your local machine:
 
 1. Open your terminal or command prompt
 2. Navigate to the directory where you want to store the project
 3. Clone the repository:
    4. Navigate into the project directory:
-   5. ## Running the Application
+
+   - Running the Application
 There are two ways to run this application:
 
 1. Using a web browser:
@@ -33,30 +35,30 @@ There are two ways to run this application:
 
 To test with different salary inputs, modify the `basicSalary` and `benefits` variables in the `salary_calculator.js` file.
 
-## Author
-[Your Name]
+ Author
+[Nickson Mogaka]
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-# Speed Checker
+@ Speed Checker
 
-## Description
+- Description
 This project implements a speed checking function in JavaScript. It determines if a driver is within the speed limit, calculates demerit points for speeding, and identifies when a license should be suspended based on the number of demerit points accumulated.
 
-## Prerequisites/Getting Started
+- Prerequisites/Getting Started
 To run this program, you need:
 - A computer with a modern web browser (e.g., Chrome, Firefox, Safari)
 - Node.js installed on your machine (if you want to run it via command line)
 
-## Installation
+- Installation
 To get this project on your local machine:
 
 1. Open your terminal or command prompt
 2. Navigate to the directory where you want to store the project
 3. Clone the repository:
 4. Navigate into the project directory:
-5. 
-## Running the Application
+
+- Running the Application
 There are two ways to run this application:
 
 1. Using a web browser:
@@ -76,22 +78,22 @@ There are two ways to run this application:
 
 To test with different speeds, modify the argument in the `checkSpeed()` function call at the bottom of the file.
 
-## Author
-[Your Name]
+ Author
+[Nickson Mogaka]
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-# Student Grade Generator
+#@ Student Grade Generator
 
-## Description
+- Description
 This project implements a simple student grade generator in JavaScript. It prompts the user to input a student's marks, then calculates and displays the corresponding grade based on a predefined grading scale.
 
-## Prerequisites/Getting Started
+- Prerequisites/Getting Started
 To run this program, you need:
 - A computer with a modern web browser (e.g., Chrome, Firefox, Safari)
 - Basic knowledge of how to open HTML files in a web browser
 
-## Installation
+- Installation
 To get this project on your local machine:
 
 1. Open your terminal or command prompt
@@ -99,9 +101,7 @@ To get this project on your local machine:
 3. Clone the repository:
 4. 4. Navigate into the project directory:
   
-   5. ## Running the Application
-To run and test the application:
-## Running the Application
+  - Running the Application
 To run and test the application:
 
 1. Create an HTML file (e.g., `index.html`) in the project directory with the following content:

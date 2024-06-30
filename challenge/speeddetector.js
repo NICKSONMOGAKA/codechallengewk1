@@ -13,8 +13,3 @@ function checkSpeed(speed) {
         }
     }
 }
-
-// Example usage:
-checkSpeed(80); // Output: Points: 2
-checkSpeed(60); // Output: Ok
-checkSpeed(130); // Output: License suspended

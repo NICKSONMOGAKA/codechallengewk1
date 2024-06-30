@@ -76,13 +76,3 @@ function calculateNetSalary(basicSalary, benefits) {
     };
 }
 
-// Example usage
-let basicSalary = 50000;
-let benefits = 10000;
-let salaryDetails = calculateNetSalary(basicSalary, benefits);
-
-console.log("Gross Salary: " + salaryDetails.grossSalary);
-console.log("PAYE (Tax): " + salaryDetails.paye);
-console.log("NHIF Deductions: " + salaryDetails.nhif);
-console.log("NSSF Deductions: " + salaryDetails.nssf);
-console.log("Net Salary: " + salaryDetails.netSalary);
